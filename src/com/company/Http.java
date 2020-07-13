@@ -16,5 +16,8 @@ public class Http {
 
 
         System.out.println("Git practice");
+        System.out.println("To PULL ");
+        System.out.println("To PULL ");
+        System.out.println("To PULL ");
     }
 }
