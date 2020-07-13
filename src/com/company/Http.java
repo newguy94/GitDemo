@@ -13,5 +13,8 @@ public class Http {
 
     ChromeOptions c = new ChromeOptions();// Chrome options to customize chrome browser
         c.merge(ch); // Merge desired capabilities to chrome browser
+
+
+        System.out.println("Git practice");
     }
 }
